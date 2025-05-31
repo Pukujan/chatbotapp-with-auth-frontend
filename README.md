@@ -1,3 +1,7 @@
+# technologies used
+react, rtk-toolkits, jquery, firebase for database and authentication, openrouter - deekseepv3 api (free)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
